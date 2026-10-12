@@ -1,0 +1,11 @@
+Book Break image sources
+
+These original project illustrations were carried over from the A3 website.
+No external image services are needed to view this page.
+
+images/reading-desk.jpg: 1200 x 600 pixels
+images/reading-hour.jpg: 900 x 450 pixels
+images/reading-list.jpg: 720 x 480 pixels
+images/swap-books.jpg: 720 x 480 pixels
+
+book-icon.svg, clock-icon.svg, chat-icon.svg: original project icons.
